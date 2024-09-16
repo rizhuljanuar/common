@@ -1,5 +1,5 @@
 {
-    "name": "antoniopapa/common",
+    "name": "rizhuljanuar/common",
     "description": "Common libraries for Microservices",
     "type": "library",
     "require": {
