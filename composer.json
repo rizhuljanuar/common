@@ -3,8 +3,8 @@
     "description": "Common libraries for Microservices",
     "type": "library",
     "require": {
-        "php": "^7.4",
-        "laravel/framework": "^8.0"
+        "php": "^8.2",
+        "laravel/framework": "^11.9"
     },
     "autoload": {
         "psr-4": {
